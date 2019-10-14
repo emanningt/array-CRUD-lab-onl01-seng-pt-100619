@@ -7,6 +7,7 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
+  dinner = ["Pizza","in-in-out","Taco Bell", "Nothing"]
   dinner << "Oh! Sandwhich"
 end
 
